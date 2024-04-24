@@ -68,7 +68,7 @@ plugins:
 collections:
     notes:
       output: true
-      permalink: /:title
+      permalink: /note/:title
 
 markdown: kramdown
 
