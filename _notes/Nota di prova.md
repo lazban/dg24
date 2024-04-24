@@ -6,3 +6,4 @@ tags:
 ---
 scrivo questa nota di prova
 metto anche un backlink [[Hidden Note]]
+![[fotodifamiglia.jpeg]]
