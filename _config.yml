@@ -46,7 +46,7 @@ preferences:
   wiki_style_link:
     enabled: true
   pagepreview:
-    enabled: false
+    enabled: true
   backlinks:
     enabled: true
 # To enable a homepage, change the value to true and add content to _includes/Homepage.html
