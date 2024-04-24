@@ -1,5 +1,5 @@
 ---
-title: nota di prova
+title: Nota di prova
 feed: show
 tags:
   - books
