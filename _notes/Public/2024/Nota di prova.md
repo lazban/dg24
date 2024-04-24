@@ -3,7 +3,7 @@ title: Nota di prova
 feed: show
 tags:
   - books
-date: 25-04-2024
+date: 24-04-2024
 ---
 scrivo questa nota di prova
 metto anche un backlink [[Hidden Note]]
